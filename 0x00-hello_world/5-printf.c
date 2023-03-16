@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - Entry point
+ * main - prints "with proper grammar, but the outcome is a piece of art," followed newline
  *
  * Return Always 0 (Success)
  */
